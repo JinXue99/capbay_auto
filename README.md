@@ -84,3 +84,6 @@
 ## 👨🏻‍💻 Role
 - Agent: http://localhost:8000/agent (to view the test drive Registration)
 - Customer: http://localhost:8000 (to register)
+
+## Screenshots
+This folder contains screenshots of key pages and features in the application for quick reference and documentation purposes.
